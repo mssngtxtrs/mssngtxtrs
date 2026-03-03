@@ -14,8 +14,11 @@ let mut me = MyData {
     languages: [ "Rust", "C", "C++", "C#", "HTML", "PHP", "CSS", "JavaScript", "Python", "sh" ],
     graphics_and_design: [ "Blender", "Figma", "Photoshop" ],
     game_engines: [ "Unity", "Unreal Engine", "Bevy" ],
-    techs: [ "Linux", "Docker", "Qt", "MySQL", ".NET", "Git" ]
+    techs: [ "Linux", "Docker", "Qt", "MySQL", ".NET", "Git" ],
 
+    contact: Contact::new(
+        telegram: "@mssngtxtrs"
+    )
 }
 ```
 
