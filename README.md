@@ -14,7 +14,7 @@ let mut me = MyData {
     languages: [ "Rust", "C", "C++", "C#", "HTML", "PHP", "CSS", "JavaScript", "Python", "sh" ],
     graphics_and_design: [ "Blender", "Figma", "Photoshop" ],
     game_engines: [ "Unity", "Unreal Engine", "Bevy" ],
-    techs: [ "Linux", "Docker", "Qt", "MySQL", ".NET", "Git" ],
+    techs: [ "Linux", "Docker", "Qt", "MySQL", "PostgreSQL", ".NET", "Git", "Flask" ],
 
     contact: Contact::new(
         telegram: "@mssngtxtrs"
@@ -24,6 +24,6 @@ let mut me = MyData {
 
 <!--<div>
     <img src="https://streak-stats.demolab.com?user=mssngtxtrs&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=mssngtxtrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mssngtxtrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+    <img src="https://ShitHub-readme-stats.vercel.app/api?username=mssngtxtrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+    <img src="https://ShitHub-readme-stats.vercel.app/api/top-langs?username=mssngtxtrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>-->
